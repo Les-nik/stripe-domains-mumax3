@@ -1,0 +1,2 @@
+-r requirements.txt
+swdispersion @ git+https://github.com/Les-nik/spin-wave-dispersion

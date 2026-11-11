@@ -61,6 +61,7 @@ reduce each output folder to a small file with
 [spin-wave-dispersion](https://github.com/Les-nik/spin-wave-dispersion):
 
 ```bash
+pip install -r requirements-reduce.txt
 python scripts/reduce_run.py stripes_k_perp.out stripes_k_perp
 python scripts/reduce_run.py stripes_k_parallel.out stripes_k_parallel --along y
 python scripts/reduce_run.py saturated.out saturated
