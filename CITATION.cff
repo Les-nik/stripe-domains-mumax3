@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the article."
+title: "stripe-domains-mumax3"
+authors:
+  - family-names: "Leśniewski"
+    given-names: "Nikodem"
+repository-code: "https://github.com/Les-nik/stripe-domains-mumax3"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Reconfigurable magnonic crystals: Spin wave propagation in Pt/Co multilayer in saturated and stripe domain phase"
+  authors:
+    - {family-names: "Dhiman", given-names: "A. K."}
+    - {family-names: "Leśniewski", given-names: "N."}
+    - {family-names: "Gieniusz", given-names: "R."}
+    - {family-names: "Kisielewski", given-names: "J."}
+    - {family-names: "Mazalski", given-names: "P."}
+    - {family-names: "Kurant", given-names: "Z."}
+    - {family-names: "Matczak", given-names: "M."}
+    - {family-names: "Stobiecki", given-names: "F."}
+    - {family-names: "Krawczyk", given-names: "M."}
+    - {family-names: "Lynnyk", given-names: "A."}
+    - {family-names: "Maziewski", given-names: "A."}
+    - {family-names: "Gruszecki", given-names: "P."}
+  journal: "APL Materials"
+  volume: 12
+  issue: 11
+  start: 111106
+  year: 2024
+  doi: "10.1063/5.0227380"
